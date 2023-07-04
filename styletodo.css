@@ -47,16 +47,20 @@
     outline: none;
     padding: 10px;
     background: transparent;
+    /* self */
+    width: 80%;
 }
 .row button{
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 16px 16px;
     background: #ff5945;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+    /* self */
+    width: 20%;
 }
 ul li{
     list-style: none;
